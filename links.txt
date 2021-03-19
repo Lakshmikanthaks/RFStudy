@@ -5,3 +5,5 @@ https://www.everythingrf.com/rf-calculators/vswr-calculator
 Notes / Books 
 https://www.acmaustin.com/lecture_notes/waveguides.pdf 
 https://lib.dr.iastate.edu/cgi/viewcontent.cgi?article=3683&context=qnde 
+
+https://www.rfcafe.com/references/electrical/waveguide.htm 
